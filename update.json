@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "version_code": 3,
-  "download_url": "https://github.com/tt5746624-jpg/update_x_znex/releases/download/Xoni/X.Znex_1.1.0.apk",
+  "download_url": "https://github.com/tt5746624-jpg/update_x_znex/releases/download/Xoni/X.Znex_1.2.0.apk",
   "changelog": "Added selected app icon, Execute Command FAB, session activity card, and new booster features.",
   "minimum_version": "1.0.0",
   "force_update": false
